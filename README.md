@@ -1,5 +1,7 @@
 # Frontend Mentor - Article preview component
 
+Component is Live on url : https://article-preview-component-lac.vercel.app/
+
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
